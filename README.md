@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div></br>
 
 <div align="center">
- <a href="https://github.com/RicardoPonte11%22%3E
+ <a href="https://github.com/RicardoPonte">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RicardoPonte&show_icons=true&count_private=true&hide_border=true&title_color=007A33&icon_color=007A33&text_color=FFFFFF&bg_color=0d1117" alt="Ricardo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoPonte&layout=compact&hide_border=true&title_color=007A33&text_color=FFFFFF&bg_color=0d1117" />
 </div>
